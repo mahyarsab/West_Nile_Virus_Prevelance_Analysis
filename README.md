@@ -55,3 +55,4 @@ Part 2 will be divided into three parts: basic analysis, statistical analysis, a
 3. In the advanced statistical analysis, linear and logistic regression models will be constructed to determine how the independent variables affect the number of mosquitoes caught and the presence of West Nile Virus. The models will be constructed iteratively, and their limitations will be analyzed.
 
 The project will require the use of statistical software such as Python or R, and visualization tools such as Matplotlib or ggplot2. The project will help to identify factors that contribute to the occurrence of West Nile Virus in mosquitoes, and could potentially help in the development of strategies to control the spread of the virus.
+
