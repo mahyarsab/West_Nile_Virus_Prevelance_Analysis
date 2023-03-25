@@ -1,5 +1,9 @@
 # West_Nile_Virus_Prevelance_Analysis
 
+- [First Jupyter Notebook ( Data Wrangling & EDA & Visualization ) ](https://github.com/mahyarsab/West_Nile_Virus_Prevelance_Analysis/blob/main/Mahyar_WNV_Part1.ipynb)
+- [Second Jupyter Notebook ( Correlation & Linear Regression & Logistic Regression )](https://github.com/mahyarsab/West_Nile_Virus_Prevelance_Analysis/blob/main/Mahyar_WNV_Part2.ipynb)
+
+
 <img alt="image" src="https://www.cdc.gov/dotw/westnilevirus/images/main_928px.jpg?_=32625">
 
 West Nile Virus (WNV) is a viral illness largely spread by mosquitoes. The disease is transmitted to a person when an infected mosquito bites them.
